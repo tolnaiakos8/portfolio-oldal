@@ -2,4 +2,4 @@
 
 Ebben a kísérletben létrehoztuk az első GitHub repo-nkat.
 
-Ne feledd az account.js-ben az API kulcsot!
+Ne feledd az account.js-ben az API kulcsot!!
