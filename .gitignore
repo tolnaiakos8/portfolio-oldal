@@ -1,1 +1,4 @@
 account.js
+*.orig
+node_modules/
+.DC_Store
